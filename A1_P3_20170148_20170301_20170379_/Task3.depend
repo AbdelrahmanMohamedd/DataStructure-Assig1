@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1552158760 source:d:\mounir_study\second_term\data_structures\assignments\assignment1\task3\main.cpp
+	<iostream>
+	"Matrix.h"
+	"MatrixCalculator.h"
+
+1552159525 d:\mounir_study\second_term\data_structures\assignments\assignment1\task3\matrix.h
+	<iostream>
+	<cstdlib>
+
+1552159710 source:d:\mounir_study\second_term\data_structures\assignments\assignment1\task3\matrix.cpp
+	"Matrix.h"
+
+1552158760 d:\mounir_study\second_term\data_structures\assignments\assignment1\task3\matrixcalculator.h
+	<iostream>
+	"Matrix.h"
+
+1552160401 source:d:\mounir_study\second_term\data_structures\assignments\assignment1\task3\matrixcalculator.cpp
+	"MatrixCalculator.h"
+
+1552158760 source:d:\mounir_study\second_term\data_structures\new folder\a1_20170148_20170301_20170379\a1_p3_20170148_20170301_20170379_\main.cpp
+	<iostream>
+	"Matrix.h"
+	"MatrixCalculator.h"
+
+1552159525 d:\mounir_study\second_term\data_structures\new folder\a1_20170148_20170301_20170379\a1_p3_20170148_20170301_20170379_\matrix.h
+	<iostream>
+	<cstdlib>
+
+1552158760 d:\mounir_study\second_term\data_structures\new folder\a1_20170148_20170301_20170379\a1_p3_20170148_20170301_20170379_\matrixcalculator.h
+	<iostream>
+	"Matrix.h"
+
+1552159710 source:d:\mounir_study\second_term\data_structures\new folder\a1_20170148_20170301_20170379\a1_p3_20170148_20170301_20170379_\matrix.cpp
+	"Matrix.h"
+
+1552160401 source:d:\mounir_study\second_term\data_structures\new folder\a1_20170148_20170301_20170379\a1_p3_20170148_20170301_20170379_\matrixcalculator.cpp
+	"MatrixCalculator.h"
+

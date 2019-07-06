@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1551970484 source:d:\mounir_study\second_term\data_structures\assignments\assignment1\task2\main.cpp
+	<iostream>
+	"Fraction.h"
+	"FractionCalculator.h"
+
+1551951365 d:\mounir_study\second_term\data_structures\assignments\assignment1\task2\fraction.h
+	<iostream>
+	<cstdlib>
+
+1551970538 source:d:\mounir_study\second_term\data_structures\assignments\assignment1\task2\fraction.cpp
+	"Fraction.h"
+
+1551970360 source:d:\mounir_study\second_term\data_structures\assignments\assignment1\task2\fractioncalculator.cpp
+	"FractionCalculator.h"
+
+1551970261 d:\mounir_study\second_term\data_structures\assignments\assignment1\task2\fractioncalculator.h
+	"Fraction.h"
+

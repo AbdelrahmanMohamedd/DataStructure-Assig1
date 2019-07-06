@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1551894584 source:c:\users\owner\desktop\c++\a6\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"StudentName.h"
+	<vector>
+
+1551894584 c:\users\owner\desktop\c++\a6\studentname.h
+	<string>
+	<iostream>
+	<vector>
+
+1551898141 source:c:\users\owner\desktop\c++\a6\studentname.cpp
+	"StudentName.h"
+	<iostream>
+
+1551894584 source:c:\users\owner\desktop\assinment1\a6\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"StudentName.h"
+	<vector>
+
+1551894584 c:\users\owner\desktop\assinment1\a6\studentname.h
+	<string>
+	<iostream>
+	<vector>
+
+1551898141 source:c:\users\owner\desktop\assinment1\a6\studentname.cpp
+	"StudentName.h"
+	<iostream>
+

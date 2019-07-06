@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1552083763 source:c:\users\ag\desktop\final ds a1 bigdecint task\src\bigdecint.cpp
+	"BigDecInt.h"
+
+1552083763 c:\users\ag\desktop\final ds a1 bigdecint task\include\bigdecint.h
+	<iostream>
+	<cstring>
+	<string>
+	<sstream>
+
+1552082905 source:c:\users\ag\desktop\final ds a1 bigdecint task\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"BigDecInt.h"
+
